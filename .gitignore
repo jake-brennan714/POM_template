@@ -1,3 +1,14 @@
+# IntelliJ
+.idea
+.idea/**
+*.iml
+out
+out/**
+
+# Maven
+target
+target/**
+
 # Compiled class file
 *.class
 
